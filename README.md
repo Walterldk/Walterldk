@@ -41,7 +41,7 @@
 <p align="left">
 	
 <a href="https://wa.me/qr/KQSFOMMCAFETL1" target="blank"><img src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png?raw=true" width="55" height="55" alt="whatsapp logo">
-<a href="https://www.instagram.com/walter_ldk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="55" width="55" /></a>
+<a href="https://www.instagram.com/walter_ldk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="100" width="100" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
