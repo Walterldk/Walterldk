@@ -40,7 +40,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	
-<a href="https://wa.me/qr/KQSFOMMCAFETL1" target="blank"><img src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png?raw=true" width="55" height="55" alt="whatsapp logo">
+<a href="https://wa.me/qr/KQSFOMMCAFETL1" target="blank"><img src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png?raw=true" width="65" height="65" alt="whatsapp logo">
 <a href="https://www.instagram.com/walter_ldk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="65" width="65" /></a>
 </p>
 <br>
