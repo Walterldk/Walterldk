@@ -1,7 +1,3 @@
-<img align="right" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; height: auto; max-height: 200px; display: inline-block;" data-target="animated-image.originalImage">
-
-
-
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -37,6 +33,9 @@
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
+
+<img align="right" height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; height: auto; max-height: 200px; display: inline-block;" data-target="animated-image.originalImage">
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
