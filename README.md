@@ -5,19 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Walter Steven <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-# Hi there, I'm [Tu Nombre] 👋
-
-> *"If you wanna make the world a better place, take a look at yourself, and then make a change."* — Michael Jackson 🕺
-
-![Michael Jackson Moonwalk](https://media.giphy.com/media/dh0l13pD1C44o/giphy.gif)
-
-### 🛠️ Tech Stack & Skills
-- ⚡ JavaScript / React / Node.js
-- 🎨 CSS / HTML / Git
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark)
-
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ***About me***
