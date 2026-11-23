@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Walter Steven",
+    "handle": "Walterldk",
+    "role": "Estudiante de Análisis y Desarrollo de Software",
+    "school": "SENA",
+    "focus": "Backend con Python",
+    "skills": [
+      {
+        "name": "Python",
+        "level": 80
+      },
+      {
+        "name": "Django",
+        "level": 65
+      },
+      {
+        "name": "Flask",
+        "level": 60
+      }
+    ],
+    "interests": [
+      "Videojuegos",
+      "Música",
+      "Deportes"
+    ],
+    "roadmap": [
+      {
+        "name": "Fundamentos de Python",
+        "status": "done"
+      },
+      {
+        "name": "Django y Flask",
+        "status": "doing"
+      },
+      {
+        "name": "APIs REST y bases de datos",
+        "status": "next"
+      },
+      {
+        "name": "Despliegue y CI/CD",
+        "status": "next"
+      }
+    ]
+  },
+  "total": 0,
+  "days": []
+}
