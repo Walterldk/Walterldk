@@ -8,7 +8,7 @@
 <rect x="28" y="30" width="46" height="4" rx="2" fill="#22d3ee"><animate attributeName="width" from="0" to="46" dur="0.8s" begin="0.00s" fill="freeze"/></rect>
 <text x="28" y="62" font-size="14" font-weight="400" fill="#8b9bb4" text-anchor="start" >02 / BRAND</text>
 <text x="28" y="104" font-size="40" font-weight="700" fill="#e6edf3" text-anchor="start" >BRAND</text>
-<text x="28" y="130" font-size="17" font-weight="400" fill="#22d3ee" text-anchor="start" >SENA · ADSO</text>
+<text x="28" y="130" font-size="17" font-weight="400" fill="#22d3ee" text-anchor="start" >Soluciones Hospitalarias · Dev</text>
 
 <rect class="eq" x="336" y="52" width="6" height="10" rx="2" fill="#22d3ee" style="animation-delay:-0.00s"/><rect class="eq" x="346" y="45" width="6" height="17" rx="2" fill="#22d3ee" style="animation-delay:-0.17s"/><rect class="eq" x="356" y="38" width="6" height="24" rx="2" fill="#22d3ee" style="animation-delay:-0.34s"/><rect class="eq" x="366" y="31" width="6" height="31" rx="2" fill="#22d3ee" style="animation-delay:-0.51s"/><rect class="eq" x="376" y="46" width="6" height="16" rx="2" fill="#22d3ee" style="animation-delay:-0.68s"/><rect class="eq" x="386" y="39" width="6" height="23" rx="2" fill="#22d3ee" style="animation-delay:-0.85s"/>
 <circle cx="76" cy="184" r="34" fill="none" stroke="#22d3ee" stroke-width="2">

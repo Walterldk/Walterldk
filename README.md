@@ -1,4 +1,4 @@
-<a href="https://github.com/Walterldk"><img src="assets/hero.svg" width="100%" alt="Walter Steven, estudiante de ADSO en el SENA"></a>
+<a href="https://github.com/Walterldk"><img src="assets/hero.svg" width="100%" alt="Software Engineer | Full Stack Developer"></a>
 
 <a href="https://github.com/Walterldk"><img src="assets/build.svg" width="32.5%" alt="BUILD"></a>
 <a href="https://github.com/Walterldk"><img src="assets/brand.svg" width="32.5%" alt="BRAND"></a>
